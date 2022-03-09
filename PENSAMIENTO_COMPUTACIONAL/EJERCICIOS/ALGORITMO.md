@@ -1,6 +1,6 @@
 # REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
 
-#Traslado al trabajo
+Traslado al trabajo
 inicio
 paso1 Datos:. dinero
 paso2 Salir por la pueta
