@@ -1,6 +1,6 @@
 # REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
 
-Traslado al trabajo
+#Traslado al trabajo
 inicio
 paso1 Datos:. dinero
 paso2 Salir por la pueta
@@ -21,11 +21,11 @@ fin
 
 # DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 
-Calculo de la edad a partir de la fecha de nacimiento
+#Calculo de la edad a partir de la fecha de nacimiento
 
 incio 
-paso1 Datos de entrada: fecha de nacimiento, fecha de hoy
+paso1 Datos de entrada: FN=fecha de nacimiento, FH=fecha de hoy, E= edad
 paso2 leer la fecha de nacimiento y la fecha del día de hoy
-paso3 restar la fecha de nacimiento  de la fecha de hor
-paso4 presentar el resultado
+paso3 E= FH - FN
+paso4 E
 fin
