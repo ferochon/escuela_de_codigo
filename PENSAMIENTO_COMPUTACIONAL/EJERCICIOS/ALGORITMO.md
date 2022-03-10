@@ -2,8 +2,11 @@
 
 Traslado al trabajo
 inicio
+
 paso1 Datos:. dinero
+
 paso2 Salir por la pueta
+
 paso3 Ir a la parada del camión
 paso4 hacerle la parada
 paso5 subir al camión
