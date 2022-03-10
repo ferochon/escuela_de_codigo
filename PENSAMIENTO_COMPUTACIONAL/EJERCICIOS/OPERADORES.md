@@ -15,13 +15,13 @@ Se multiplica el resultado 2 * 2= 4
 
 Se suma y se  crea el resultado1 = 4 + 16 = 20
 
-Se analiza el segundo parentesis  (5 * 4 - 3^)
+Se analiza el segundo parentesis  (5 * 4 - 3^3)
+ 
+Se realiza la potencia 3^ = 27
 
 Se realiza  5 * 4 = 20
 
-Se realiza la potencia 3^= 27
-
-Se  restan y se crea el resultado 2 = -7
+Se  restan y se crea el resultado2 = -7
 
  x es la resta resultado1 - resultado2 = 20- (-7) = 27
  
@@ -34,6 +34,26 @@ Se  restan y se crea el resultado 2 = -7
 
 
 X = (5 + 2 * 4) – (25 +. 5)2
+
+Inicio
+
+Se realiza el parénesis (5 + 2 * 4) 
+
+2 * 4 = 8
+
+5 + 8 = 13
+
+Se realiza el segundo parentesis  (25 + 5) = 30
+
+El segundo parentesis se multiplica por 2   (30)2 = 60
+
+x = 13 + 60 = 73
+
+Fin
+
+
+
+
 
 X = (100/5^2 + 1) + 11 * 3
 
@@ -54,10 +74,26 @@ baja al final del mes. Describe tal situación usando operadores
 relacionales.
 
 HE= Hora de entrada
+
 HLL= Hora de llegada
+
 R = retardo
-S= spension
-Bono= Bono de puntualidad
+
+S= supension de un día
+
+Bo = Bono de puntualidad
+
+Ba = Baja
+
+
+R = (HLL ˃ HE)
+
+R  =  0   Bo
+
+R  =  2   S
+
+R  ˃= 3   Ba
+
 
 
 Reto. Analiza el problema y selecciona la opción que consideres que lo
