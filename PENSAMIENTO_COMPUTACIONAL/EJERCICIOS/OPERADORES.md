@@ -88,11 +88,11 @@ Ba = Baja
 
 R = (HLL ˃ HE)
 
-R  =  0   Bo
+R  =  0      Bo
 
-R  =  2   S
+R  =  2      S
 
-R  ˃= 3   Ba
+R  ˃= 3      Ba
 
 
 
