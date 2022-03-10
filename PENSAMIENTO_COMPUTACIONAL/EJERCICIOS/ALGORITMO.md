@@ -27,8 +27,13 @@ fin
 #Calculo de la edad a partir de la fecha de nacimiento
 
 incio 
+
 paso1 Datos de entrada: FN=fecha de nacimiento, FH=fecha de hoy, E= edad
+
 paso2 leer la fecha de nacimiento y la fecha del día de hoy
+
 paso3 E= FH - FN
+
 paso4 E
+
 fin
