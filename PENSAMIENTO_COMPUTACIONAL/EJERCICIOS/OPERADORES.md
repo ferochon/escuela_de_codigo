@@ -60,6 +60,9 @@ X = (100/5^2 + 1) + 11 * 3
 X = ((8-6)^2*3)^3.
 
 
+
+
+
 Inicio
 
 Se  analiza  (5 + 2* 4)  
@@ -88,18 +91,21 @@ Ba = Baja
 
 R = (HLL ˃ HE)
 
-R  =  0      Bo
+R  =  0         Bo = Bono
 
-R  =  2      S
+R  =  2         S  = Suspensión
 
-R  ˃= 3      Ba
+R  ˃= 3         Ba = Baja
 
 
 
 Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
-mayor que “F”. ¿Cuál es el menor de todos?
+mayor que “F”. ¿Cuál es el menor de todos? 
+
+Si  (C ˃ D) & (D ˃ F) & (E < F) & (G < E) entonces  G es la menor de todas
+
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha.
