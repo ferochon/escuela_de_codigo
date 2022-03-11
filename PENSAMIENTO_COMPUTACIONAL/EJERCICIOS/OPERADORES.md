@@ -47,7 +47,7 @@ Se realiza el segundo parentesis  (25 + 5) = 30
 
 El segundo parentesis se multiplica por 2   (30)2 = 60
 
-x = 13 + 60 = 73
+Resultado x = 13 + 60 = 73
 
 Fin
 
@@ -57,15 +57,49 @@ Fin
 
 X = (100/5^2 + 1) + 11 * 3
 
+inicio
+
+Se evalúa primero (100/5^2 + 1) 
+
+Se realiza 5^2 = 25
+
+Se divide 100/25 = 4
+
+Se suma (4 + 1) = 5
+
+Se realiza la multiplicación 11 * 3 = 33
+
+Se hace la suma con el paréntesis (5) + 33 = 38
+
+Resultado x = 38
+
+Fin
+
+
+
+
 X = ((8-6)^2*3)^3.
 
+inicio
+
+((8-6)^2*3)
+
+(8-6) = 2
+
+2^2 = 4
+
+4 * 3 = 12
+
+(12)^3 = 1728
+
+Resultado x = 1728
+
+Fin
 
 
 
 
-Inicio
-
-Se  analiza  (5 + 2* 4)  
+ 
 
 
 ## OPERADORES RELACIONALES
