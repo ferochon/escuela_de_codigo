@@ -23,5 +23,21 @@
 Inicio
 
 
+1. Inicio
+
+2. Declarar float (metros, yardas)
+
+3. Imprime ("Dame el núemr de metros")
+
+4. Asignar (metros)
+
+5. yardas = 1.09561 * metros
+
+6. Imprime ("Su equivalente en yardas es: + yardas")
+
+7. Fin
+
+
+
 5. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 
