@@ -55,10 +55,11 @@ Inicio
 
 7. area = (base * altura) / 2 
 
-8.Imprime ("El área dek triángulo es:" + area)
+8.Imprime ("El área del triángulo es:" + area)
 
 9.Fin
 
+![image](https://user-images.githubusercontent.com/101203503/158709176-ce39924a-8ce8-4c9c-acc2-d8174b24cdf5.png)
 
 
 
