@@ -5,7 +5,7 @@
 
 2.declarar float (numero, resultado)
 
-3.Imprimo ("Dame el número:")
+3.Imprimir ("Dame el número:")
 
 4.asignar (numero)
 
