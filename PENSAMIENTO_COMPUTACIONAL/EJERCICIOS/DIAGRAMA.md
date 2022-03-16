@@ -7,7 +7,7 @@
 
 3.Imprimo ("Dame el número:")
 
-4. asignar (numero)
+4.asignar (numero)
 
 5.resultado =  numero * 9
 
