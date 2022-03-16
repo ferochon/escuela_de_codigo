@@ -1,22 +1,27 @@
 ## RETO
 1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
 
-inicio
+1.inicio
 
-declarar float numero
+2.declarar float (numero, resultado)
 
-declarar float resultado
+3.Imprimo ("Dame el número:")
 
-Imprimo "Dame el número:"
+4. asignar (numero)
 
-resultado =  numero * 9
+5.resultado =  numero * 9
 
-Imprime ("El resultado es:")
+6.Imprime ("El resultado es:" + resultado)
 
-Imprime (resultado)
+7.Fin
 
-Fin
+![image](https://user-images.githubusercontent.com/101203503/158641952-78ef98ba-6acb-4505-b0cb-65dc8f366cbd.png)
 
-3. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
-4. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
+
+2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
+
+Inicio
+
+
+5. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 
