@@ -3,11 +3,11 @@
 
 1.Inicio
 
-2.declarar(numero1, numero2)
+2.declarar(numero1, numero2)int
 
-3.asignar(numero1, numero2) 
+3.asignar(numero1, numero2)int
 
-4.SI numeo1 > numero2, ENTONCES mostrar("número1 es mayor que número2") SI NO mostrar("número2 es mayor que número 1")
+4.SI numeo1 > numero2, ENTONCES mostrar("número1 es mayor que número2") SI NO mostrar("número2 es mayor que número 1")Fin Si
 
 5.FIN
 
@@ -19,7 +19,7 @@
 
 1. inicio
 
-2. declarar(calif1, vcalif2, vcalif3, calif4, promedio)
+2. declarar(calif1, vcalif2, vcalif3, calif4, promedio) float
 
 3. Mostrar("Dame la calificación 1")
 
@@ -39,11 +39,9 @@
 
 10. promedio = (calif1 + calif2 + calif3 + calif4)/ 4
 
-11. Si (promedio >= 6)
+11. Si (promedio >= 6), Entonces mostrar ("Felicidades has aprobado el periodo") SI NO  mostrar ("Lo sentimos estas reprobado, debes repetir el curso")FIN SI
 
-12  mostrar ("Felicidades has aprobado el periodo"), no mostrar ("Lo sentimos estas reprobado, debes repetir el curso)
-
-13. Fin
+12. Fin
 
 ![image](https://user-images.githubusercontent.com/101203503/158857947-8beff4dc-785e-4cb9-bafc-c2ebf42afea0.png)
 
