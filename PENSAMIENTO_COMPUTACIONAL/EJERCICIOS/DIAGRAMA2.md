@@ -1,15 +1,15 @@
 ## RETO
 1. Realiza un algoritmo y diagrama de flujo de un programa que compare dos números e indique cual es mayor.
 
-Inicio
+1.Inicio
 
-declarar(numero1, numero2)
+2.declarar(numero1, numero2)
 
-asignar(numero1, numero2) 
+3.asignar(numero1, numero2) 
 
-SI numeo1 > numero2, ENTONCES mostrar("número1 es mayor que número2") SI NO mostrar("número2 es mayor que número 1")
+4.SI numeo1 > numero2, ENTONCES mostrar("número1 es mayor que número2") SI NO mostrar("número2 es mayor que número 1")
 
-FIN
+5.FIN
 
 
 
