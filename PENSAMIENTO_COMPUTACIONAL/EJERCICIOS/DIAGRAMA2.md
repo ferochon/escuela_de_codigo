@@ -37,7 +37,14 @@
 
 9. asignar (calif4)
 
-10. promedio = (calif1 + calif2 + calif3 + calif4)
+10. promedio = (calif1 + calif2 + calif3 + calif4)/ 4
+
+11. Si (promedio >= 6)
+
+12  mostrar ("Felicidades has aprobado el periodo"), no mostrar ("Lo sentimos estas reprobado, debes repetir el curso)
+
+13. Fin
+
 
 
 4. MostrarRealizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
