@@ -5,9 +5,7 @@ Inicio
 
 declarar(numero1, numero2)
 
-asignar(numero1, numero2)
-
-if (numero1 > numero2) 
+asignar(numero1, numero2) 
 
 SI numeo1 > numero2, ENTONCES mostrar("número1 es mayor que número2") SI NO mostrar("número2 es mayor que número 1")
 
