@@ -3,7 +3,7 @@
 
 Inicio
 
-declarar(numero1, numero2, resultado)
+declarar(numero1, numero2)
 
 asignar(numero1, numero2)
 
