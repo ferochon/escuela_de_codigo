@@ -2,6 +2,37 @@
 ## REALIZAR LOS SIGUIENTES RETOS CON SU ALGORITMO Y DIAGRAMA DE FLUJO CORRESPONDIENTE CADA UNO 
 
 * Programa que pida un número y diga si es positivo o negativo
+
+1.Inicio
+
+2.Declarar(numero)float
+
+3.Mostrar("Dame un número")
+
+4.Asignar(numero)
+
+5.Si(numero>0),
+  
+  Entonces(numero,"Es psitivo") 
+ 
+  SINO (Si(numer<0)
+        
+        Entonces Mostrar("es negativo")
+        
+        SINO Mostrar("es cero")
+
+
+        FINSI 
+    
+    FINSI 
+  
+  FINSI
+ 
+ 6.Fin
+  
+
+
+
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
