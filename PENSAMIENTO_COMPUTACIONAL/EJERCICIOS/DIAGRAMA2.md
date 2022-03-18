@@ -50,7 +50,7 @@
 
 1. Inicio
 
-2. Declarar(numero, resultado)float
+2. Declarar(numero, resultado)int, float
 
 3. Mostrar("Dame el número: ")
 
