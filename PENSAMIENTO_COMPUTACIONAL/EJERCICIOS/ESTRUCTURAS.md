@@ -34,6 +34,22 @@
 
 
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+
+1. Inicio
+
+2. Declarar(letra)char  
+
+3. Mostrar("Ingresa una letra")
+
+4. Asignar(letra)
+
+5. Si (letra == "s" || letra == "n") Entonces (Mostrar("Letra correcta") SINO ("Letra incorrrecta")
+
+6. Fin  
+
+[Uploading Untitled Diagram (1).drawio…]()
+
+
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
