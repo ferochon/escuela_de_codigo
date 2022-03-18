@@ -51,6 +51,39 @@
 
 
 * Un programa que pida una letra y detecte si es una vocal. 
+
+1. Inicio
+
+2. Declarar(vocal)Char
+
+3. Mostrar("Ingresa una letra")
+
+4. Asignar(letra)
+
+5. EN CASO DE (letra) HAGA       
+       case"a": Mostrar("Es a"); 
+       case"e": Mostrar("Es a"); 
+       case"i": Mostrar("Es i");
+       case"o": Mostrar("Es o");
+       case"u": Mostrar("Es u"); 
+   SINO: Mostrar("No es vocal");
+   FIN CASO
+   
+ 6.Fin  
+    
+
+
+
+Si letra == "a" 
+
+  Entonces
+
+      SiNo( Si letra == "b") 
+      
+         Entonces   
+          
+           SiNo( Si letra == "b") 
+
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
