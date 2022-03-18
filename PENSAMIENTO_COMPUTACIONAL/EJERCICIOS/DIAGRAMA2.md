@@ -5,7 +5,7 @@
 
 2.declarar(numero1, numero2)int
 
-3.asignar(numero1, numero2)int
+3.asignar(numero1, numero2)
 
 4.SI numeo1 > numero2, ENTONCES mostrar("número1 es mayor que número2") SI NO mostrar("número2 es mayor que número 1")Fin Si
 
