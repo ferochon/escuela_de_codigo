@@ -48,19 +48,19 @@
 
 4.Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
 
-1.Inicio
+1. Inicio
 
-2.Declarar(numero, resultado)float
+2. Declarar(numero, resultado)float
 
-3.Mostrar("Dame el número: ")
+3. Mostrar("Dame el número: ")
 
-4.Asignar(numero)
+4. Asignar(numero)
 
-5.resultado=numero%2
+5. resultado=numero%2
 
-6.Si (resultado==0), Entonces Mostrar("Es un número par") SI NO Mostrar("Es un número impar") FIN SI
+6. Si (resultado==0), Entonces Mostrar("Es un número par") SI NO Mostrar("Es un número impar") FIN SI
 
-7.Fin
+7. Fin
 
 
 
