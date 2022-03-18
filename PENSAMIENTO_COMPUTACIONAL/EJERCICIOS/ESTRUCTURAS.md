@@ -61,11 +61,11 @@
 4. Asignar(letra)
 
 5. EN CASO DE (letra) HAGA       
-       case"a": Mostrar("Es a"); 
-       case"e": Mostrar("Es a"); 
-       case"i": Mostrar("Es i");
-       case"o": Mostrar("Es o");
-       case"u": Mostrar("Es u"); 
+       case"a": Mostrar("Es vocal"); 
+       case"e": Mostrar("Es vocal"); 
+       case"i": Mostrar("Es vocal");
+       case"o": Mostrar("Es vocal";
+       case"u": Mostrar("Es vocal"); 
    SINO: Mostrar("No es vocal");
    FIN CASO
    
