@@ -60,29 +60,26 @@
 
 4. Asignar(letra)
 
-5. EN CASO DE (letra) HAGA       
+5. EN CASO DE (letra) HAGA      
+ 
        case"a": Mostrar("Es vocal"); 
+       
        case"e": Mostrar("Es vocal"); 
+       
        case"i": Mostrar("Es vocal");
+       
        case"o": Mostrar("Es vocal";
+       
        case"u": Mostrar("Es vocal"); 
+   
    SINO: Mostrar("No es vocal");
+   
    FIN CASO
    
  6.Fin  
     
 
 
-
-Si letra == "a" 
-
-  Entonces
-
-      SiNo( Si letra == "b") 
-      
-         Entonces   
-          
-           SiNo( Si letra == "b") 
 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
