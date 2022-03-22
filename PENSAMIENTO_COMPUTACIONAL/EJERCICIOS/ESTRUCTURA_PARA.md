@@ -28,18 +28,10 @@ Realizar algoritmo y diagrama de flujo de un programa que imprima las tablas de 
 
 1. Inicio
 
-2. Declarar(numero, contador) int, int
+2. Declarar(numero, contadorA, contadorB) int, int, int
 
-3. contador=1 
+3. contadorA=1 
  
-4. Mostrar("Introduce el numro a multiplicar: ")
+4. contador B=1
 
-5. Asignar(numero) 
-
-5. Para(contador<=10) Mostrar(numero "x" contador "=" numero*contador)  contador=contador + 1
-
-9. Fin Para
-
-10. Fin 
-
-
+Para(contador<=10) Mostrar (numero*contador= numero) contador=contadorA+1 SI (contador<= 10) ENTONCES
