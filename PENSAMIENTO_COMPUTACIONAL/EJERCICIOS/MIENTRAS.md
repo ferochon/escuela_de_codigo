@@ -20,3 +20,13 @@ Realizar el algoritmo y diagrama de flujo de un programa para obtener la suma de
 
 Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
 
+1. Inicio
+
+2. Declarar(numero, suma, anterior)
+
+3. anterior=0
+
+4. Asignar(numero)
+
+5.-
+
