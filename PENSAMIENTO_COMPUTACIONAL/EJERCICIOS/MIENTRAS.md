@@ -6,9 +6,9 @@ Realizar el algoritmo y diagrama de flujo de un programa para obtener la suma de
  
 3. Asignar(var1=0)
  
-4 Asignar(var2=1)
+4. Asignar(var2=1)
  
-5 mientras (var2<=10) res= var1+var2 var2=var2+1
+5. mientras (var2<=10) res= var1+var2 var2=var2+1
  
 6. mostrar(res)  FINMIENTRA
  
