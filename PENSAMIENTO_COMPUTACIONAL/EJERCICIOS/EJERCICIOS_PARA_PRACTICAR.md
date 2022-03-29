@@ -99,13 +99,25 @@ FinAlgoritmo
 Hallar Aumento al Sueldo de un empleado; si el sueldo es mayor a $500.000 su aumento será del 12%, pero si su sueldo es menor El aumento será del 15%. 
 
 Algoritmo Aumneto_de_sueldo
+	
 	Escribir 'Introduzaca su sueldo actual: '
+	
 	Leer sueldo
+	
 	Si sueldo >=500 Entonces
+		
 		nuevo<-sueldo + 0.12*sueldo
+		
 		Escribir 'Su nuevo sueldo será de $', nuevo
+		
 	SiNo
+		
 		nuevo<-sueldo + 0.15*sueldo
+		
 		Escribir 'Su nuevo sueldo será de $', nuevo
+		
 	Fin Si
+	
 FinAlgoritmo
+
+	
