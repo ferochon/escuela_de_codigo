@@ -29,9 +29,11 @@ FinAlgoritmo
 Escribe un programa que permita al usuario ingresar 6 números enteros, que pueden ser positivos o negativos. Al finalizar, mostrar la sumatoria de los números negativos y el promedio de los positivos.
 Algoritmo SumayPromedio
 	cont <- 1
+	
 	cont_pos <- 0
+	
 	sum_pos <- 0
-	sum_neg <- 0
+	s um_neg <- 0 
 	Mientras cont<=6 Hacer
 		Segun cont  Hacer
 			1:
