@@ -27,6 +27,40 @@ FinAlgoritmo
 
 
 Escribe un programa que permita al usuario ingresar 6 números enteros, que pueden ser positivos o negativos. Al finalizar, mostrar la sumatoria de los números negativos y el promedio de los positivos.
+Algoritmo SumayPromedio
+	cont <- 1
+	cont_pos <- 0
+	sum_pos <- 0
+	sum_neg <- 0
+	Mientras cont<=6 Hacer
+		Segun cont  Hacer
+			1:
+				lugar <- 'primer'
+			2:
+				lugar <- 'segundo'
+			3:
+				lugar <- 'tercer'
+			4:
+				lugar <- 'cuarto'
+			5:
+				lugar <- 'quinto'
+			6:
+				lugar <- 'sexto'
+		FinSegun
+		Escribir 'Dame el ',lugar,' número: '
+		Leer num
+		Si num>=0 Entonces
+			sum_pos <- sum_pos+num
+			cont_pos <- cont_pos+1
+		SiNo
+			sum_neg <- sum_neg+num
+		FinSi
+		cont <- cont+1
+	FinMientras
+	prom <- sum_pos/cont_pos
+	Escribir 'El promedio de los números positivos es: ',prom
+	Escribir 'La sumatoria de los números negativos es: ',sum_neg
+FinAlgoritmo
 
 Escribe un programa que permita al usuario ingresar los montos de las compras de un cliente (se desconoce la cantidad de datos que cargará, la cual puede cambiar en cada ejecución), cortando el ingreso de datos cuando el usuario ingrese el monto 0. Si ingresa un monto negativo, no se debe procesar y se debe pedir que ingrese un nuevo monto.
 
