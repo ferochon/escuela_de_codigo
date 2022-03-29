@@ -35,7 +35,7 @@ Algoritmo SumayPromedio
 	Mientras cont<=6 Hacer
 		Segun cont  Hacer
 			1:
-				lugar <- 'primer'
+				lugar <- ' primer'
 			2:
 				lugar <- 'segundo'
 			3:
