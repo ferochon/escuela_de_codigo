@@ -33,7 +33,8 @@ Se  restan y se crea el resultado2 = -7
 
 
 
-X = (5 + 2 * 4) – (25 +. 5)2
+X = (5 + 2 * 4) – (25 + 5)2
+
 
 Inicio
 
@@ -43,11 +44,11 @@ Se realiza el parénesis (5 + 2 * 4)
 
 5 + 8 = 13
 
-Se realiza el segundo parentesis  (25 + 5) = 30
+Se realiza el segundo parentesis  (25 + 5) = 900
 
-El segundo parentesis se multiplica por 2   (30)2 = 60
+El segundo parentesis se multiplica por 2   (30)2 = 900
 
-Resultado x = 13 + 60 = 73
+Resultado x = 13 -900 = -887
 
 Fin
 
