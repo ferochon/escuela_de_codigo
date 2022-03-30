@@ -3,19 +3,32 @@
 Traslado al trabajo
 inicio
 
-paso1 Datos:. dinero
+paso1 Datos: ruta, dinero
 
 paso2 Salir por la pueta
 
 paso3 Ir a la parada del camión
+
 paso4 hacerle la parada
+
 paso5 subir al camión
+
+paso6 pagar tarifa
+
+paso7 tomar un lugar
+
 paso6 observar si he llegao al destino
-paso7 Si lleguéal destino pedir parada
+
+paso7 Si estoy llegando al destino pedir parada
+
 paso8 bajar del camión
+
 paso9 caminar a la ofocina
+
 paso10 entrar
+
 paso11 checar entrada
+
 fin
 
 
