@@ -41,12 +41,14 @@ fin
 
 incio 
 
-paso1 Datos de entrada: FN=fecha de nacimiento, FH=fecha de hoy, E= edad
+paso1 Declarar FN=fecha de nacimiento, FH=fecha de hoy, E= edad
 
-paso2 leer la fecha de nacimiento y la fecha del día de hoy
+paso2 Mostrar ("Dame la fecha de nacimiento y la fecha de hoy: ")
 
-paso3 E= FH - FN
+paso3 Asignar FN, FH
 
-paso4 E
+paso4 E= FH - FN
+
+pasos Mostrar E
 
 fin
