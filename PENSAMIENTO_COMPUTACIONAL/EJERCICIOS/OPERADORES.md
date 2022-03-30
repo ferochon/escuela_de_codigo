@@ -124,13 +124,13 @@ Bo = Bono de puntualidad
 Ba = Baja
 
 
-R = (HLL ˃ HE)
+R = H (HLL ˃ HE)
 
-R  =  0         Bo = Bono
+Si (HLL<=HE)=0    entonces  R=0  entonces  Bo=Bono
 
-R  =  2         S  = Suspensión
+Si (HLL>HE)=2     entonces  R=2  entonces  S=Suspensión de un día
 
-R  ˃= 3         Ba = Baja
+Si (HLL>=HE)>= 3  entonces  R˃=3 entonces  Ba = Baja definitiva
 
 
 
