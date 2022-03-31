@@ -17,6 +17,7 @@
 
 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 
+
 1. inicio
 
 2. declarar(calif1, vcalif2, vcalif3, calif4, promedio) float
@@ -44,7 +45,7 @@
 
 12. Fin
 
-![image](https://user-images.githubusercontent.com/101203503/158857947-8beff4dc-785e-4cb9-bafc-c2ebf42afea0.png)
+
 ![image](https://user-images.githubusercontent.com/101203503/160954629-9e2f72f1-90f7-47ec-9862-c0f2b6d0794a.png)
 ![image](https://user-images.githubusercontent.com/101203503/160956842-b3c7349e-2e2e-4cc2-adfc-cca100fa5909.png)
 ![image](https://user-images.githubusercontent.com/101203503/160957335-e2ed6a5d-5b30-47ba-a94e-8d2e620357fd.png)
