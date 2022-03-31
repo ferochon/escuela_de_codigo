@@ -18,32 +18,32 @@
 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 
 
-1. inicio
+ 1.  inicio
 
-2. declarar(calif1, vcalif2, vcalif3, calif4, promedio) float
+ 2.  declarar(calif1, vcalif2, vcalif3, calif4, promedio) float
 
-3. Mostrar("Dame la calificación 1")
+ 3.  Mostrar("Dame la calificación 1")
 
-4. asignar (calif1)
+ 4.  asignar (calif1)
 
-5. Mostrar("Dame la calificación 2")
+ 5.  Mostrar("Dame la calificación 2")
 
-6. asignar (calif2)
+ 6.  asignar (calif2)
 
-5. Mostrar("Dame la calificación 3")
+ 7.  Mostrar("Dame la calificación 3")
 
-7. asignar (calif3)
+ 8.  asignar (calif3)
 
-8. Mostrar("Dame la calificación 4")
+ 9.  Mostrar("Dame la calificación 4")
 
-9. asignar (calif4)
+ 10. asignar (calif4)
 
-10. promedio = (calif1 + calif2 + calif3 + calif4)/ 4
+ 11. promedio = (calif1 + calif2 + calif3 + calif4)/ 4
 
-11. Si (promedio >= 6), Entonces mostrar ("El pomedio es", promedio, "Felicidades has aprobado el periodo") SI NO  mostrar ("El pomedio es", promedio,
+ 12. Si (promedio >= 6), Entonces mostrar ("El pomedio es", promedio, "Felicidades has aprobado el periodo") SI NO  mostrar ("El pomedio es", promedio,
     "Lo sentimos estas reprobado, debes repetir el curso")FIN SI
 
-12. Fin
+ 13.  Fin
 
 
 ![image](https://user-images.githubusercontent.com/101203503/160954629-9e2f72f1-90f7-47ec-9862-c0f2b6d0794a.png)
