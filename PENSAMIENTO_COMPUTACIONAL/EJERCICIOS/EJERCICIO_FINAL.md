@@ -14,3 +14,54 @@ NumIncog= 100
 Intentos=10
 Mientras(NumIncog!=NumPrueba&&intentos>1)
 
+
+
+Algoritmo Juego2
+	
+	Escribir'Dame un número: '
+	
+	Leer NumPrueba
+	
+	NumIncog= azar(100)+1
+	
+	intentos=0
+	
+	Mientras (NumPrueba<>NumIncog & intentos <=10) Hacer
+		
+		Si NumPrueba>NumIncog Entonces
+			
+			Escribir 'El número que ingresaste es mayor.Intenta de nuevo'
+			
+		SiNo
+			
+		Escribir 'El número que ingresaste es menor.Intenta de nuevo'
+		
+	    Fin Si
+		
+		Intentos<-intentos+1
+		
+		Escribir'llevas: ',intentos," intentos"
+		
+		Escribir'Dame un número: '
+		
+		Leer NumPrueba
+		
+
+	Fin Mientras
+	
+	Si NumPrueba == NumIncog Entonces
+		
+		Escribir 'Felicidades!Le atinaste el número es 100, en ',intentos," intentos"
+		
+	SiNo
+		
+		Escribir 'Lo siento, excediste  el número de intentos, el numero era :',NumIncog
+		
+	Fin Si
+	
+	
+FinAlgoritmo
+
+
+![image](https://user-images.githubusercontent.com/101203503/160972101-40835e54-ac9e-4c45-88f4-829d7d15c4b5.png)
+
