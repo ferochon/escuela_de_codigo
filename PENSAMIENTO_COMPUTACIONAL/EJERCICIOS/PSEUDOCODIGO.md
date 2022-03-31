@@ -39,7 +39,7 @@ Algoritmo Suma_Diez_Cantidades
 			4:
 				posicion <- 'cuarta'
 			5: 
-			    posicion <- 'quinta'
+			        posicion <- 'quinta'
 			6:	
 				posicion <- 'sexta'
 			7:	
