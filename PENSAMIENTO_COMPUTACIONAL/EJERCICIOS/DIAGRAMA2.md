@@ -40,12 +40,17 @@
 10. promedio = (calif1 + calif2 + calif3 + calif4)/ 4
 
 11. Si (promedio >= 6), Entonces mostrar ("El pomedio es", promedio, "Felicidades has aprobado el periodo") SI NO  mostrar ("El pomedio es", promedio,
-12. "Lo sentimos estas reprobado, debes repetir el curso")FIN SI
+    "Lo sentimos estas reprobado, debes repetir el curso")FIN SI
 
 12. Fin
 
 ![image](https://user-images.githubusercontent.com/101203503/158857947-8beff4dc-785e-4cb9-bafc-c2ebf42afea0.png)
 ![image](https://user-images.githubusercontent.com/101203503/160954629-9e2f72f1-90f7-47ec-9862-c0f2b6d0794a.png)
+![image](https://user-images.githubusercontent.com/101203503/160956842-b3c7349e-2e2e-4cc2-adfc-cca100fa5909.png)
+![image](https://user-images.githubusercontent.com/101203503/160957335-e2ed6a5d-5b30-47ba-a94e-8d2e620357fd.png)
+
+
+
 
 
 4.Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
@@ -65,5 +70,6 @@
 7. Fin
 
 ![image](https://user-images.githubusercontent.com/101203503/158938423-10a3e167-41ac-46c6-a140-49e94eca4c81.png)
+
 
 
