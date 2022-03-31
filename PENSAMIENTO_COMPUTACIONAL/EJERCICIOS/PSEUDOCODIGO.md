@@ -74,6 +74,15 @@ FinAlgoritmo
 
 5. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 
+1. Inicio
+2. Declarar(calif1,calif2,calif3,calif4,promedio)
+3. Asignar (calif1,calif2,calif3,calif4)
+4. promedio=(calif1+calif2+calif3+calif4)/4
+5. SI (proemdio>=6) ENTONCES Mostrar ('El promedio es: ', promedio,' felicidades! Has aprobado el curso')
+   SINO('El promedio es: ', promedio,' lo siento, reprobaste el curso')
+   FIN SI
+6. Fin
+
 ![image](https://user-images.githubusercontent.com/101203503/161163435-9a80dafd-5d6b-42c3-aeba-e3b0672c7f96.png)
 
 7. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
