@@ -45,6 +45,7 @@
 12. Fin
 
 ![image](https://user-images.githubusercontent.com/101203503/158857947-8beff4dc-785e-4cb9-bafc-c2ebf42afea0.png)
+![image](https://user-images.githubusercontent.com/101203503/160954629-9e2f72f1-90f7-47ec-9862-c0f2b6d0794a.png)
 
 
 4.Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
