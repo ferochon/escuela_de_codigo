@@ -39,7 +39,8 @@
 
 10. promedio = (calif1 + calif2 + calif3 + calif4)/ 4
 
-11. Si (promedio >= 6), Entonces mostrar ("Felicidades has aprobado el periodo") SI NO  mostrar ("Lo sentimos estas reprobado, debes repetir el curso")FIN SI
+11. Si (promedio >= 6), Entonces mostrar ("El pomedio es", promedio, "Felicidades has aprobado el periodo") SI NO  mostrar ("El pomedio es", promedio,
+12. "Lo sentimos estas reprobado, debes repetir el curso")FIN SI
 
 12. Fin
 
