@@ -16,7 +16,7 @@ Mientras(NumIncog!=NumPrueba&&intentos>1)
 
 
 
-Algoritmo Juego2
+Algoritmo Juego3
 	
 	Escribir'Dame un número: '
 	
