@@ -18,7 +18,7 @@ FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/101203503/161151599-9ee890fd-2217-4258-b7c7-ab60fd765f08.png)
 
 
-3. Realiza un diagrama de flujo para obtener la suma de diez cantidades, que se soliciten al usuario, mediante la utilización de un ciclo “Mientras”. 
+2. Realiza un diagrama de flujo para obtener la suma de diez cantidades, que se soliciten al usuario, mediante la utilización de un ciclo “Mientras”. 
 
 Algoritmo Suma_Diez_Cantidades
 	
@@ -72,7 +72,7 @@ FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/101203503/161159461-94f1e31a-4adc-4201-bc74-4a8de056245f.png)
 
 
-5. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
+3. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 
 1. Inicio
 2. Declarar(calif1,calif2,calif3,calif4,promedio)
@@ -85,8 +85,8 @@ FinAlgoritmo
 
 ![image](https://user-images.githubusercontent.com/101203503/161163435-9a80dafd-5d6b-42c3-aeba-e3b0672c7f96.png)
 
-7. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
-8. Un programa que pida una letra y detecte si es una vocal.
-9. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
-10. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
-11. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
+4. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
+5. Un programa que pida una letra y detecte si es una vocal.
+6. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
+7. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
+8. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
