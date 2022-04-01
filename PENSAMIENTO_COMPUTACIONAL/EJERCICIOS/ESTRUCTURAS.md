@@ -53,6 +53,9 @@
 [Uploading Untitled Diagram (1).drawio…]()
 
 
+![image](https://user-images.githubusercontent.com/101203503/161177985-fe4ca862-f041-401d-99ab-86ae1557c111.png)
+
+
 * Un programa que pida una letra y detecte si es una vocal. 
 
 1. Inicio
