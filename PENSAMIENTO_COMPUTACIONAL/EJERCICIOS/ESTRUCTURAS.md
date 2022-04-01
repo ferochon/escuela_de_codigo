@@ -107,5 +107,47 @@ SI3(n3<=n1) ENTONCES3 mostrar (n1 n2 n3) SINO3 SI4(n2<=n3) ENTONCES4 mostrar(n2 
 8. FIN
 
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
+ 
+1. Inicio
+
+2. Declarar (num) char
+
+3. Mostrar ("Dame un número del 1 al 12")
+
+4. Asignar (num)
+
+5. En CASO DE num HAGA
+   
+   1: Mostrar ("Enero")
+   
+   2: Mostrar ("Febrero")
+   
+   3: Mostrar ("Marzo")
+   
+   4: Mostrar ("Abril")
+   
+   5: Mostrar ("Mayo")
+   
+   6: Mostrar ("Junio")
+   
+   7: Mostrar ("Julio")
+   
+   8: Mostrar ("Agosto")
+   
+   9: Mostrar ("Septiembre")
+   
+   10: Mostrar ("Octubre")
+   
+   11: Mostrar ("Noviembre")
+   
+   12: Mostrar ("Diciembre")
+   
+   SI NO   
+   
+   FIN CASO
+
+6. Fin  
+
+
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 * Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
