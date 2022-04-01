@@ -153,21 +153,55 @@ SI3(n3<=n1) ENTONCES3 mostrar (n1 n2 n3) SINO3 SI4(n2<=n3) ENTONCES4 mostrar(n2 
 
 1. Inicio
 
-2. Declarar(votar)
+2. Declarar(votO)Char
 
 3. Mostrar("¿Por quien vota A,B o C?: ") 
 
 4. Asignar(voto)
 
-5. SI (voto=="A") ENTONCES Mostrar("Usted ha votado por el partido ROJO")
+5. EN CASO DE voto HAGA
+     
+     CASO 'A':  Mostrar("Usted ha votado por el partido ROJO")
+     
+     CASO 'B':  Mostrar("Usted ha votado por el partido VERDE")
+     
+     CASO 'C':  Mostrar("Usted ha votado por el partido AZUL")
+     
+     SI NO  Mostrar("Opción ERRONEA")
+     
+   FIN CASO  
 
-   SI NO
-      SI (voto=="B") ENTONCES Mostrar("Usted ha votado por el partido VERDE") 
-7. 
+6. Fin
+ 
 
+
+* Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
+
+ 1. Inicio
+ 
+ 2. Declarar(correo, contraseña, contraeña_de_usuario, correo_de_usuario) string
+
+ 3. correo_de_usuario = correo_de_usuario@xmail.com
+ 
+ 4. contraeña_de_usuario = Que tal mundo
+ 
+ 5. Mostrar('Introduce tu e-mail: ')
+  
+ 6. Asignar(correo)
+ 
+ 7. Mostrar('Introduce tu contraseña: ')
+
+ 8. Asignar(contraseña)
+
+ 9. SI (correo == correo_de_usuario && contraseña == contraeña_de_usuario)ENTONCES Mostrar ("e-mail y password correctos")
+
+    SI NO Mostrar ("e-mail o password incorrectos")
+    
+    FIN SI
+ 
+ 10. Fin
  
 
 
 
 
-* Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
