@@ -101,10 +101,50 @@
 
 6. Asignar(n1 n2 n3)
 
-7. SI1 (n1<=n2)Y(n2<=n3), ENTONCES1 mostrar( n1 n2 n3) SINO SI2(n1<=n3) ENTONCES2 mostrar (n1 n3 n2) SINO2 mostrar (n3 n1 n2)FINSI2 SINO1
-SI3(n3<=n1) ENTONCES3 mostrar (n1 n2 n3) SINO3 SI4(n2<=n3) ENTONCES4 mostrar(n2 n3 n1) SINO4 mostrar(n3 n2 n1) FINSI4 FINSI3 FINSI1
-
+7. SI (n1<=n2)Y(n2<=n3)ENTONCES 
+ 
+      MOSTRAR ('El orden de menor a mayor es: ',n1,' ',n2,' ',n3)
+   
+   SINO
+   
+      SI n1<=n3 Y n3<=n2 ENTONCES
+			
+         MOSTRAR (' El orden de menor a mayor es: ',n1,' ',n3,' ',n2)
+		
+      SINO
+			
+        SI n2<=n1 Y n1<=n3 ENTONCES
+				
+           MOSTRAR (' El orden de menor a mayor es: ',n2,' ',n1,' ',n3)
+			
+        SINO
+				
+           SI n2<=n3 Y n3<=n1 ENTONCES
+					
+              MOSTRAR (' El orden de menor a mayor es: ',n2,' ',n3,' ',n1)
+				
+           SINO
+					
+              SI n3<=n1 Y n1<=n2 ENTONCES
+						
+                MOSTRAR (' El orden de menor a mayor es: ',n3,' ',n1,' ',n2)
+					
+              SINO
+						
+                 MOSTRAR (' El orden de menor a mayor es: ',n3,' ',n2,' ',n1)
+					
+              FINSI
+				
+         FINSI
+			
+       FINSI
+		
+    FINSI
+	
+  FINSI
+ 
 8. FIN
+
 
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
  
