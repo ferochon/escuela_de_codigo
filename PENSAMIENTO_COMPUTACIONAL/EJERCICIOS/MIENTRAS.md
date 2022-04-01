@@ -22,11 +22,25 @@ Realiza un algoritmo y diagrama de flujo de un programa que solicita números al
 
 1. Inicio
 
-2. Declarar(numero, suma, anterior)
+2. Declarar(num, suma)
 
-3. anterior=0
+3. suma=0
 
-4. Asignar(numero)
+4. Mostrar("Mietras quieras seguir sumando, dame un número positivo: ')
 
-5.-
+5. Asignar(num)
+
+6. MIENTRAS(núm>=0){suma=suma+num
+
+       Mostrar("Si quieres seguir sumando, dame un número positivo: ')
+
+       Asignar(num)
+       
+   } FIN MIENTRAS
+ 
+ 7. Mostrar("La suma de tus números es: ", suma)
+ 
+ 8. Fin 
+
+       
 
