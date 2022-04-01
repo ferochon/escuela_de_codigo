@@ -68,15 +68,15 @@
 
 5. EN CASO DE (letra) HAGA      
  
-       case"a": Mostrar("Es vocal"); 
+           "a": Mostrar("Es vocal"); 
        
-       case"e": Mostrar("Es vocal"); 
+           "e": Mostrar("Es vocal"); 
        
-       case"i": Mostrar("Es vocal");
+           "i": Mostrar("Es vocal");
        
-       case"o": Mostrar("Es vocal";
+           "o": Mostrar("Es vocal";
        
-       case"u": Mostrar("Es vocal"); 
+           "u": Mostrar("Es vocal"); 
    
    SINO: Mostrar("No es vocal");
    
