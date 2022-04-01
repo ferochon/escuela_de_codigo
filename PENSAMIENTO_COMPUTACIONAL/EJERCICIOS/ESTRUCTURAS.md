@@ -15,7 +15,7 @@
   
   Entonces(numero,"Es psitivo") 
  
-  SINO (Si(numer<0)
+  SINO Si(numer<0)
         
         Entonces Mostrar("es negativo")
         
