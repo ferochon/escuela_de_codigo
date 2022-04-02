@@ -34,6 +34,7 @@ SI NO Mostrar("Lo siento, excediste  el número de intentos, el numero era :",Nu
 FIN
 
 
+
 Pseudocódigo
 
 Algoritmo Juego3
