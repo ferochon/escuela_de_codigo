@@ -82,7 +82,7 @@ Algoritmo JuegoV4
 FinAlgoritmo
 
 
-![image](https://user-images.githubusercontent.com/101203503/160972101-40835e54-ac9e-4c45-88f4-829d7d15c4b5.png)
+Diagrama de flujo
 
 ![image](https://user-images.githubusercontent.com/101203503/161364373-1b6cf263-aef6-4636-a258-66cc362673f3.png)
 
