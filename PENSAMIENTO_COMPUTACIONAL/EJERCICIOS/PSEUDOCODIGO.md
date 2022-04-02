@@ -114,7 +114,31 @@ FinAlgoritmo
 
 
 4. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
-5. Un programa que pida una letra y detecte si es una vocal.
-6. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
-7. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
-8. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
+
+Algoritmo sin_titulo
+	
+	Escribir "Dame el número: "
+	
+	Leer num
+	
+	resultado<-num%2
+	
+	Si resultado=0 Entonces
+		
+		Escribir "Es un número par" 
+	
+	SiNo
+		
+		Escribir "Es un número impar"
+	
+	Fin Si
+
+FinAlgoritmo
+
+![image](https://user-images.githubusercontent.com/101203503/161391982-51e56da4-f1e5-4c12-81b9-a24c37868714.png)
+
+
+6. Un programa que pida una letra y detecte si es una vocal.
+7. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
+8. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
+9. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
