@@ -76,21 +76,38 @@ FinAlgoritmo
 
 Algoritmo promedio4
 	Escribir "ingresa la calificación del primero periodo"
+	
 	Leer cal1
+	
 	Escribir "ingresa la calificación del segundo periodo"
+	
 	Leer cal2
+	
+	
 	Escribir "ingresa la calificación del tercer periodo"
+	
 	Leer cal3
+	
 	Escribir "ingresa la calificación del cuarto periodo"
+	
 	Leer cal4
+	
 	promedio<-(cal1 + cal2 + cal3 + cal4)/4
+	
 	Si promedio >=6 Entonces
+		
 		Escribir "Tu promedio es: ",promedio
+		
 		Escribir "Feliciades has aprobado" 
+	
 	SiNo
+		
 		Escribir "Tu promedio es: ",promedio
+		
 		Escribir "has reprobado, lo siento" 
+	
 	Fin Si
+
 FinAlgoritmo
 
 ![image](https://user-images.githubusercontent.com/101203503/161388720-6b81342f-0290-489a-9212-3b00c54f413e.png)
