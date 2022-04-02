@@ -16,7 +16,7 @@ Intentos=0
 
 Mientras(NumIncog!=NumPrueba&&intentos<=10){SI NumPrueba>NumIncog ENTONCES Mostrar("El número que ingresaste es mayor. Intenta de nuevo")
 
-                                                                  SINO Mostrar("El número que ingresaste es menor. Intenta de nuevo") FIN SI
+SINO Mostrar("El número que ingresaste es menor. Intenta de nuevo") FIN SI
 
 intentos= intentos +1
 
