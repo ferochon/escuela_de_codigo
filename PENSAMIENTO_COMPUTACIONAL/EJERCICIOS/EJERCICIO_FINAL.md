@@ -37,50 +37,48 @@ FIN
 
 Pseudocódigo
 
-Algoritmo Juego3
+Algoritmo JuegoV4
 	
-	Escribir'Dame un número: '
+	Escribir 'Dame un número: '
 	
 	Leer NumPrueba
 	
-	NumIncog= azar(100)+1
+	NumIncog <- azar(100)+1
 	
-	intentos=0
+	intentos <- 0
 	
-	Mientras (NumPrueba<>NumIncog & intentos <=10) Hacer
+	Mientras (NumPrueba<>NumIncog Y intentos<=10) Hacer
 		
 		Si NumPrueba>NumIncog Entonces
 			
 			Escribir 'El número que ingresaste es mayor.Intenta de nuevo'
-			
+		
 		SiNo
 			
-		Escribir 'El número que ingresaste es menor.Intenta de nuevo'
+			Escribir 'El número que ingresaste es menor.Intenta de nuevo'
 		
-	    Fin Si
+		FinSi
 		
-		Intentos<-intentos+1
+		intentos <- intentos+1
 		
-		Escribir'llevas: ',intentos," intentos"
+		Escribir 'llevas: ',intentos,' intentos'
 		
-		Escribir'Dame un número: '
+		Escribir 'Dame un número: '
 		
 		Leer NumPrueba
-		
-
-	Fin Mientras
 	
-	Si NumPrueba == NumIncog Entonces
+	FinMientras
+	
+	Si NumPrueba==NumIncog Entonces
 		
-		Escribir 'Felicidades!Le atinaste el número es", NumIncog, en ',intentos," intentos"
-		
+		Escribir 'Felicidades!Le atinaste en ', intentos,' intentos. El número es ', NumIncog 
+	
 	SiNo
 		
 		Escribir 'Lo siento, excediste  el número de intentos, el numero era :',NumIncog
-		
-	Fin Si
 	
-	
+	FinSi
+
 FinAlgoritmo
 
 
