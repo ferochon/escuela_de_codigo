@@ -139,6 +139,46 @@ FinAlgoritmo
 
 
 6. Un programa que pida una letra y detecte si es una vocal.
-7. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
-8. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
-9. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
+
+Algoritmo Es_vocal
+	
+	Escribir 'Ingresa una letra'
+	
+	Leer letra
+	
+	Segun letra Hacer
+	
+	        'a':
+			
+			Escribir 'es una vocal'
+		
+		'e':
+			
+			Escribir 'es una vocal'
+		
+		'i':
+			
+			Escribir 'es una vocal'
+		
+		'o':
+			
+			Escribir 'es una vocal'
+		
+		'u':	
+			
+			Escribir 'es una vocal'
+		
+		De Otro Modo:
+			
+			Escribir 'no es una vocal'
+	
+	Fin Segun
+
+FinAlgoritmo
+
+![image](https://user-images.githubusercontent.com/101203503/161402918-66bd1311-4927-4eb7-8b8c-73471ad60908.png)
+
+
+8. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
+9. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
+10. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
