@@ -180,5 +180,42 @@ FinAlgoritmo
 
 
 8. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
+
+Algoritmo Meno_a_Mayor
+	Escribir 'Dame un número: '
+	Leer n1
+	Escribir 'Dame otro número: '
+    Leer n2
+	Escribir 'Dame un número más: '
+	Leer n3
+	Si (n1<=n2)&(n2<=n3) Entonces
+		Escribir 'El orden de menor a mayor es: ',n1,' ',n2,' ',n3
+	SiNo
+		Si (n1<=n3)&(n3<=n2) Entonces
+			Escribir 'El orden de menor a mayor es: ',n1,' ',n3,' ',n2
+		SiNo
+			Si (n2<=n1)&n1<=n3 Entonces
+				Escribir 'El orden de menor a mayor es: ',n2,' ',n1,' ',n3
+			SiNo
+				Si (n2<=n3)&(n3<=n1) Entonces
+					Escribir 'El orden de menor a mayor es: ',n2,' ',n3,' ',n1
+				SiNo
+					Si (n3<=n1)&(n1<=n2)  Entonces
+						Escribir 'El orden de menor a mayor es: ',n3,' ',n1,' ',n2
+					SiNo
+						Escribir 'El orden de menor a mayor es: ',n3,' ',n2,' ',n1
+					Fin Si
+				Fin Si
+			Fin Si
+		Fin Si
+	Fin Si
+	
+FinAlgoritmo
+
+![image](https://user-images.githubusercontent.com/101203503/161405073-77627e20-4481-4239-b278-e3d2b99d9634.png)
+
+
 9. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
-10. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
+
+10. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
+11. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
