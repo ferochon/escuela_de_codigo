@@ -13,7 +13,7 @@ Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar 
 
 5. Asignar(nombre)
 
-6. mostrar("¿Cuántas vecews quieres qque se imprima el nombre? ")
+6. mostrar("¿Cuántas veces quieres qque se imprima el nombre? ")
 
 7. Asignar(numero) 
 
