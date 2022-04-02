@@ -42,5 +42,6 @@ Realiza un algoritmo y diagrama de flujo de un programa que solicita números al
  
  8. Fin 
 
+![image](https://user-images.githubusercontent.com/101203503/161368016-4dea5a23-2194-4c87-9b2c-e22a4a83abae.png)
        
 
