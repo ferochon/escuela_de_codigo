@@ -20,23 +20,11 @@
 
     1.  inicio
 
-    2.  declarar(calif1, vcalif2, vcalif3, calif4, promedio) float
+    2.  declarar(calif1, calif2, calif3, calif4, promedio) float
 
-    3.  Mostrar("Dame la calificación 1")
+    3.  Mostrar("Dame la calificación: ")
 
-    4.  asignar (calif1)
-
-    5.  Mostrar("Dame la calificación 2")
-
-    6.  asignar (calif2)
-
-    7.  Mostrar("Dame la calificación 3")
-
-    8.  asignar (calif3)
-
-    9.  Mostrar("Dame la calificación 4")
-
-    10. asignar (calif4)
+    4.  asignar (calif1, calif2,calif3,calif4, promedio)
 
     11. promedio = (calif1 + calif2 + calif3 + calif4)/ 4
 
@@ -44,6 +32,10 @@
     "Lo sentimos estas reprobado, debes repetir el curso")FIN SI
 
     13.  Fin
+
+![image](https://user-images.githubusercontent.com/101203503/161360265-22c10be6-d5f1-4dbd-b527-9a84a4ee5f54.png)
+
+
 
 
 ![image](https://user-images.githubusercontent.com/101203503/160954629-9e2f72f1-90f7-47ec-9862-c0f2b6d0794a.png)
