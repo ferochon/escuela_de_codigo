@@ -1,6 +1,6 @@
 Realizar el algoritmo y diagrama de flujo de un programa para obtener la suma de diez cantidades, iniciando en 1, mediante la utilización de un ciclo “Mientras”
 
-1. inICIO
+1. Inicio
  
 2. Declarar(var1, var2,res)
  
