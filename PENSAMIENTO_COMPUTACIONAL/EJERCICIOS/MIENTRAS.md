@@ -2,20 +2,29 @@ Realizar el algoritmo y diagrama de flujo de un programa para obtener la suma de
 
 1. Inicio
  
-2. Declarar(var1, var2,res)
+2. Declarar(conador, suma, num) Int, float,float
  
-3. Asignar(var1=0)
+3. contador=1
  
-4. Asignar(var2=1)
- 
-5. mientras (var2<=10) res= var1+var2 var2=var2+1
- 
-6. mostrar(res)  FINMIENTRA
- 
-7. FIN
+4. suma=0
 
+5. Mostrar("Suma de 10 cantidades")
+ 
+6. Mientras(contador <= 10){
 
-![image](https://user-images.githubusercontent.com/101203503/159748373-61818a8f-0b3e-4b7a-beed-4fdec50c9624.png)
+      Mostrar("Itroduce el número ", contador,": ") 
+ 
+      Asignar(num)
+      
+      suma = suma + num
+      
+      contador = contador +1} FIN MIENTRAS
+      
+7. Mostrar("La suma total de los diez números es = ", suma)      
+ 
+8. Fin
+ 
+![image](https://user-images.githubusercontent.com/101203503/161411467-bf758578-601e-482f-97ca-d25fa5694221.png)
 
 
 Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
