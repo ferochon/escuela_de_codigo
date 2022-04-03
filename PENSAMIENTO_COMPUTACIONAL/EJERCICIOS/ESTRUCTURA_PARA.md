@@ -15,7 +15,7 @@ Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar 
 
 6. Asignar(numero) 
 
-7. Para(contador<=numero) Mostrar(nombre) Contador=contador + 1
+7. Para(contador<=numero) Mostrar(contador,nombre) contador=contador + 1
 
 8. Fin Para
 
