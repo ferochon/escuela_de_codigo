@@ -138,7 +138,7 @@ FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/101203503/161391982-51e56da4-f1e5-4c12-81b9-a24c37868714.png)
 
 
-6. Un programa que pida una letra y detecte si es una vocal.
+5. Un programa que pida una letra y detecte si es una vocal.
 
 Algoritmo Es_vocal
 	
@@ -179,7 +179,7 @@ FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/101203503/161402918-66bd1311-4927-4eb7-8b8c-73471ad60908.png)
 
 
-8. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
+6. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
 
 Algoritmo Meno_a_Mayor
 	
@@ -242,7 +242,7 @@ FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/101203503/161405073-77627e20-4481-4239-b278-e3d2b99d9634.png)
 
 
-9. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
+7. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
 
 Algoritmo Nombre_Nveces
 	
@@ -265,6 +265,4 @@ FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/101203503/161406265-8fec9545-ae81-4292-a055-d207c369f784.png)
 
 
-
-10. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
-11. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
+8. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
