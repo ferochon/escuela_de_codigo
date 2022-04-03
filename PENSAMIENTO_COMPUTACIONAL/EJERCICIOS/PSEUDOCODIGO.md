@@ -266,3 +266,31 @@ FinAlgoritmo
 
 
 8. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
+
+Algoritmo SumarPositivos
+	
+	suma <- 0
+	
+	Escribir 'Mietras quieras seguir sumando, dame un número positivo: '
+	
+	Leer num
+	
+	Mientras num >= 0 Hacer
+		
+		suma <- suma + num
+		
+		Escribir 'Si quieres seguir sumando, dame un número positivo: '
+		
+		Leer num
+	
+	Fin Mientras
+	
+	Escribir 'La suma de tus números es: ", suma
+
+FinAlgoritmo
+
+![image](https://user-images.githubusercontent.com/101203503/161407723-2157ef93-f3df-43a9-908d-713fc34fa068.png)
+
+
+
+
