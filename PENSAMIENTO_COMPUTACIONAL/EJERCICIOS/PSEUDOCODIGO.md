@@ -244,5 +244,27 @@ FinAlgoritmo
 
 9. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
 
+Algoritmo Nombre_Nveces
+	
+	Escribir 'Introduce el nombre: '
+	
+	Leer nombre
+	
+	Escribir '¿Cuántas veces quieres que se imprima el nombre?: '
+	
+	Leer num
+	
+	Para contador <- 1 Hasta num Con Paso 1 Hacer
+		
+		Escribir contador,'. ',nombre
+	
+	Fin Para
+
+FinAlgoritmo
+
+![image](https://user-images.githubusercontent.com/101203503/161406265-8fec9545-ae81-4292-a055-d207c369f784.png)
+
+
+
 10. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
 11. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
