@@ -182,32 +182,59 @@ FinAlgoritmo
 8. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
 
 Algoritmo Meno_a_Mayor
+	
 	Escribir 'Dame un número: '
+	
 	Leer n1
+	
 	Escribir 'Dame otro número: '
+    
     Leer n2
+	
 	Escribir 'Dame un número más: '
+	
 	Leer n3
+	
 	Si (n1<=n2)&(n2<=n3) Entonces
+		
 		Escribir 'El orden de menor a mayor es: ',n1,' ',n2,' ',n3
+	
 	SiNo
+		
 		Si (n1<=n3)&(n3<=n2) Entonces
+			
 			Escribir 'El orden de menor a mayor es: ',n1,' ',n3,' ',n2
+		
 		SiNo
+			
 			Si (n2<=n1)&n1<=n3 Entonces
+				
 				Escribir 'El orden de menor a mayor es: ',n2,' ',n1,' ',n3
+			
 			SiNo
+				
 				Si (n2<=n3)&(n3<=n1) Entonces
+					
 					Escribir 'El orden de menor a mayor es: ',n2,' ',n3,' ',n1
+				
 				SiNo
+					
 					Si (n3<=n1)&(n1<=n2)  Entonces
+						
 						Escribir 'El orden de menor a mayor es: ',n3,' ',n1,' ',n2
+					
 					SiNo
+						
 						Escribir 'El orden de menor a mayor es: ',n3,' ',n2,' ',n1
+					
 					Fin Si
+				
 				Fin Si
+			
 			Fin Si
+		
 		Fin Si
+	
 	Fin Si
 	
 FinAlgoritmo
