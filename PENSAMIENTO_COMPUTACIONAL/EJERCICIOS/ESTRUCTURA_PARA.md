@@ -6,22 +6,20 @@ Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar 
 1. Inicio
 
 2. Declarar(nombre, numero, contador) string, int, int
-
-3. contador=1 
  
-4. Mostrar("Introduce el nombre: ")
+3. Mostrar("Introduce el nombre: ")
 
-5. Asignar(nombre)
+4. Asignar(nombre)
 
-6. mostrar("¿Cuántas veces quieres qque se imprima el nombre? ")
+5. mostrar("¿Cuántas veces quieres que se imprima el nombre? ")
 
-7. Asignar(numero) 
+6. Asignar(numero) 
 
-8. Para(contador<=numero) Mostrar(nombre) Contador=contador + 1
+7. Para(contador<=numero) Mostrar(nombre) Contador=contador + 1
 
-9. Fin Para
+8. Fin Para
 
-10. Fin 
+9. Fin 
 
 ![image](https://user-images.githubusercontent.com/101203503/161366456-7f3c17ff-2da4-407b-b73a-36a272e858a5.png)
 
