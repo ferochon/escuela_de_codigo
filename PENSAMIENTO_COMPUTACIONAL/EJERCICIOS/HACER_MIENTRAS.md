@@ -22,7 +22,7 @@ Realizar el algoritmo y diagrama de flujo de un programa para obtener la suma de
 		
     contador <- contador +1
 	
-    MIENTRAS contador < 10} FIN HACER MIENTRAS
+    MIENTRAS (contador < 10)} FIN HACER MIENTRAS
     
 8. Mostrar("La suma de los diez números es: ", suma)
 
