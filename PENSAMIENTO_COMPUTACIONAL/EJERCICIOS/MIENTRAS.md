@@ -12,7 +12,7 @@ Realizar el algoritmo y diagrama de flujo de un programa para obtener la suma de
  
 6. Mientras(contador <= 10){
 
-      Mostrar("Itroduce el número ", contador,": ") 
+      Mostrar("Introduce el número ", contador,": ") 
  
       Asignar(num)
       
